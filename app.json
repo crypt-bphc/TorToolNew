@@ -4,9 +4,9 @@
   "keywords": [
     "telegram","bot","torrent","leech"
   ],
-  "repository": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
-  "success_url": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
-  "website": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
+  "repository": "https://github.com/crypt-bphc/TorToolNew",
+  "success_url": "https://github.com/crypt-bphc/TorToolNew",
+  "website": "https://github.com/crypt-bphc/TorToolNew",
   
 "env": {
     "BASE_URL_OF_BOT": {

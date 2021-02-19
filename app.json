@@ -1,0 +1,38 @@
+{
+  "name": "Telegram Torrent Bot",
+  "description": "This Bot Leeches Magnet Links and Ytdl Supported links to Our Favourite Telegram and Most Loved Google drive and Other Cloud Servers . ",
+  "keywords": [
+    "telegram","bot","torrent","leech"
+  ],
+  "repository": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
+  "success_url": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
+  "website": "https://github.com/bhardwajjEE/TorToolkit-Telegram",
+  
+"env": {
+    "BASE_URL_OF_BOT": {
+      "description": "your Heroku app Url like :- https://yourappname.herokuapp.com",
+      "value": "ANYTHING"
+    },
+    "BOT_TOKEN": {
+      "description": "Your bot token, as a string.",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "Get this value from https://my.telegram.org or @usetgxBot",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org or @usetgxbot",
+      "value": ""
+    },
+    "ALD_USR": {
+      "description": "ALLOWED USERS [ids of user or supergroup] seperate by commas",
+      "value": "[]"
+    },
+    "DB_URI": {
+      "description": "Your Database Url , Fill details As Required",
+      "Value": "dbname=tortk user=postgres password=your-pass host=127.0.0.1 port=5432"
+    }
+},
+  "stack": "container"
+}
